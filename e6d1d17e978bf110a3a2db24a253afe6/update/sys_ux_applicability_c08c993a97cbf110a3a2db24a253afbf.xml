@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1073149_car_de_0.CarRoles</api_name>
+        <description/>
+        <name>CarRoles</name>
+        <roles>953823c297c77110a3a2db24a253af71,1a88e7c297c77110a3a2db24a253af2f,153823c297c77110a3a2db24a253af76,b6d1d17e978bf110a3a2db24a253afeb,32d1d17e978bf110a3a2db24a253aff0</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>pavan</sys_created_by>
+        <sys_created_on>2023-12-15 07:13:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c08c993a97cbf110a3a2db24a253afbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CarRoles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+        <sys_update_name>sys_ux_applicability_c08c993a97cbf110a3a2db24a253afbf</sys_update_name>
+        <sys_updated_by>pavan</sys_updated_by>
+        <sys_updated_on>2023-12-15 07:13:10</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

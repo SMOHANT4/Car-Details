@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="1f22597e348bf110f8589c5b6fa3e1f6" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1073149_car_de_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-15 06:27:13</sys_created_on>
+            <sys_id>5322597eb08bf1100b6233eea0cdf4f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="df22597ee18bf110fabf8a7ee1af17f6">1f22597e348bf110f8589c5b6fa3e1f6</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-15 06:27:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-15 06:27:13</sys_created_on>
+            <sys_id>d322597e6a8bf110327d2dba3c4c61f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="df22597ee18bf110fabf8a7ee1af17f6">1f22597e348bf110f8589c5b6fa3e1f6</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-15 06:27:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-12-15 06:27:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f22597e348bf110f8589c5b6fa3e1f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+            <sys_update_name>sys_ui_section_1f22597e348bf110f8589c5b6fa3e1f6</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-12-15 06:27:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1073149_car_de_0)" name="custom_portal_approval_x_1073149_car_de_0">df22597ee18bf110fabf8a7ee1af17f6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

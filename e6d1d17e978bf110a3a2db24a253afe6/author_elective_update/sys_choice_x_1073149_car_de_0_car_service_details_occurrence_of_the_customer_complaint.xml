@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="occurrence_of_the_customer_complaint" table="x_1073149_car_de_0_car_service_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>occurrence_of_the_customer_complaint</element>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:59:34</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>occurrence_of_the_customer_complaint</sys_name>
+            <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+            <sys_update_name>sys_choice_x_1073149_car_de_0_car_service_details_occurrence_of_the_customer_complaint</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:59:34</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With additional electrical equipment present</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 07:01:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fb90fd4975b7910a3a2db24a253afb9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 07:01:09</sys_updated_on>
+            <value>wa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With the hazard warning lamps on the several hours with the engine off</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 07:02:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaf90fd4975b7910a3a2db24a253afba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 07:02:16</sys_updated_on>
+            <value>wh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With the key in the ignition position for several hours with the engine off</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 07:02:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>842a8318975b7910a3a2db24a253af26</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 07:02:53</sys_updated_on>
+            <value>wk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With less than 15 km travelled since the last addition of fuel</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0698fd4975b7910a3a2db24a253af5e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:59:42</sys_updated_on>
+            <value>wl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With parking of the vehicle for more than 15 consecutive days</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 07:03:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>214ac318975b7910a3a2db24a253af91</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 07:03:44</sys_updated_on>
+            <value>wm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>with the presence of a telephone</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 07:04:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd7ac318975b7910a3a2db24a253af91</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 07:04:10</sys_updated_on>
+            <value>wo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With the presence of a metallic object</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 07:01:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08e98318975b7910a3a2db24a253af25</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 07:01:37</sys_updated_on>
+            <value>wp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occurrence_of_the_customer_complaint</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>With the side lamps or dipped headlamps on the several hours with the engine off</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 07:00:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a890718975b7910a3a2db24a253af20</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 07:00:34</sys_updated_on>
+            <value>wt</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

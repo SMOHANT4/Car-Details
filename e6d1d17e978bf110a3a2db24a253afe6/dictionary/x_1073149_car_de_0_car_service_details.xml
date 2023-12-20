@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="14a1c3dc971b7910a3a2db24a253af77" label="Car service details" max_length="40" name="x_1073149_car_de_0_car_service_details" type="collection">
+        <element choice="1" label="Automatic gearbox/piloted manual gearbox mode" max_length="40" name="automatic_gearbox_piloted_manual_gearbox_mode" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="The display on the dashboard is  &quot;N&quot; or &quot;P&quot;" value="td"/>
+                <element inactive_on_update="false" label="The display on the dashboard is &quot;:&quot;" value="to"/>
+                <element inactive_on_update="false" label="The level is in N/P" value="tl"/>
+                <element inactive_on_update="false" label="They brake is pressed when starting" value="tb"/>
+            </choice>
+        </element>
+        <element choice="1" label="Combustion engine temperature" max_length="40" name="combustion_engine_temperature" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A few minutes after the previous startup" value="ma"/>
+                <element inactive_on_update="false" label="Combustion engine cold on starting" value="ce"/>
+                <element inactive_on_update="false" label="Several minuts after the previous start up" value="sm"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element choice="1" label="Exterior temperature" max_length="40" name="exterior_temperature" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Above 40*C (104*F)" value="ab"/>
+                <element inactive_on_update="false" label="Below -20*C (-4*F)" value="bl"/>
+                <element inactive_on_update="false" label="From -20*C to 0*C (-4*F to 32*F)"/>
+                <element inactive_on_update="false" label="From 0*C to 10*C (32*F to 50*F)" value="fm"/>
+                <element inactive_on_update="false" label="From 10*C to 40*C (50*F to 104*F)" value="fr"/>
+            </choice>
+        </element>
+        <element choice="1" label="Frequency of the customer complaint" max_length="40" name="frequency_of_the_customer_complaint" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Intermittently" value="in"/>
+                <element inactive_on_update="false" label="Permanently" value="pm"/>
+            </choice>
+        </element>
+        <element choice="1" label="Fuel Information" max_length="40" name="fuel_information" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fuel Error" value="fe"/>
+                <element inactive_on_update="false" label="The fuel used is not a fuel recommended by the manufacture" value="fr"/>
+                <element inactive_on_update="false" label="The fuel used is the usual fuel" value="ff"/>
+                <element inactive_on_update="false" label="the fuel used recently is not the usual fuel" value="fu"/>
+            </choice>
+        </element>
+        <element choice="1" label="Geographical Location" max_length="50" name="geographical_location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In an area of strong electromagnetic interference(e.g. antenna,high voltage power lines ,hospital)" value="ia"/>
+            </choice>
+        </element>
+        <element choice="1" label="Occurrence of the customer complaint" max_length="40" name="occurrence_of_the_customer_complaint" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="With additional electrical equipment present" value="wa"/>
+                <element inactive_on_update="false" label="With less than 15 km travelled since the last addition of fuel" value="wl"/>
+                <element inactive_on_update="false" label="With parking of the vehicle for more than 15 consecutive days" value="wm"/>
+                <element inactive_on_update="false" label="With the hazard warning lamps on the several hours with the engine off" value="wh"/>
+                <element inactive_on_update="false" label="With the key in the ignition position for several hours with the engine off" value="wk"/>
+                <element inactive_on_update="false" label="With the presence of a metallic object" value="wp"/>
+                <element inactive_on_update="false" label="with the presence of a telephone" value="wo"/>
+                <element inactive_on_update="false" label="With the side lamps or dipped headlamps on the several hours with the engine off" value="wt"/>
+            </choice>
+        </element>
+        <element choice="1" label="Problem switching off the internal combustion engine" max_length="40" name="problem_switching_off_the_internal_combustion_engine" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cannot be switch off" value="c-bso"/>
+                <element inactive_on_update="false" label="Difficult to switch off" value="dtso"/>
+            </choice>
+        </element>
+        <element choice="1" label="Recent work" max_length="40" name="recent_work" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No recent work" value="nw"/>
+                <element inactive_on_update="false" label="Recent work by the customer" value="rc"/>
+                <element inactive_on_update="false" label="Recent work in the manufacture's present" value="rp"/>
+                <element inactive_on_update="false" label="Recent work outside the manufacture's network" value="ro"/>
+            </choice>
+        </element>
+        <element label="Short Description" max_length="100" name="short_description" type="string"/>
+        <element choice="1" label="Starting problems" max_length="40" name="starting_problems" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Starting difficult , but starts after a long attempt" value="Starting difficult , but starts after a long attemp"/>
+                <element inactive_on_update="false" label="Starting difficult, but starts after several attempts" value="Starting difficult, but starts after several attempt"/>
+                <element inactive_on_update="false" label="Starting impossible and the starter motor does not operate" value="siasmdnt"/>
+                <element inactive_on_update="false" label="Starting impossible,but the starter motor operates" value="Starting impossible,but the starter motor operate"/>
+            </choice>
+        </element>
+    </element>
+</database>

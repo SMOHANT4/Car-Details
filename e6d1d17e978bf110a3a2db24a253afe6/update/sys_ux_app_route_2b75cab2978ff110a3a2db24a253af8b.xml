@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Car Details Config">4f22597e978bf110a3a2db24a253afc0</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Dealer Issue Detection screen</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dealer-issue-detection-screen</route_type>
+        <screen_type display_value="Dealer Issue Detection screen">977582b2978ff110a3a2db24a253afda</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>pavan</sys_created_by>
+        <sys_created_on>2023-12-15 10:11:25</sys_created_on>
+        <sys_id>2b75cab2978ff110a3a2db24a253af8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dealer Issue Detection screen</sys_name>
+        <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+        <sys_update_name>sys_ux_app_route_2b75cab2978ff110a3a2db24a253af8b</sys_update_name>
+        <sys_updated_by>pavan</sys_updated_by>
+        <sys_updated_on>2023-12-15 10:11:25</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=2b75cab2978ff110a3a2db24a253af8b"/>
+</record_update>

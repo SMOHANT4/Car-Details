@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Car Details Config">4f22597e978bf110a3a2db24a253afc0</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Dealer Issue Detection screen">09650e72978ff110a3a2db24a253af96</macroponent>
+        <macroponent_config>{ }</macroponent_config>
+        <name>Dealer Issue Detection screen</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="ServiceTypePage">f7ca71f6974ff110a3a2db24a253afba</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>pavan</sys_created_by>
+        <sys_created_on>2023-12-15 10:10:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41650e72978ff110a3a2db24a253af99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dealer Issue Detection screen</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+        <sys_update_name>sys_ux_screen_41650e72978ff110a3a2db24a253af99</sys_update_name>
+        <sys_updated_by>pavan</sys_updated_by>
+        <sys_updated_on>2023-12-15 10:10:59</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=41650e72978ff110a3a2db24a253af99"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</application>
+        <file_path/>
+        <instance_id>50231630db0c95988aea21c40596191d</instance_id>
+        <instance_name>dev128739</instance_name>
+        <name>sys_ux_screen_41650e72978ff110a3a2db24a253af99</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Car Details Config">4f22597e978bf110a3a2db24a253afc0</app_config><description/><event_mappings/><macroponent display_value="Dealer Issue Detection screen">09650e72978ff110a3a2db24a253af96</macroponent><macroponent_config>{ }</macroponent_config><name>Dealer Issue Detection screen</name><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="ServiceTypePage">f7ca71f6974ff110a3a2db24a253afba</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>pavan</sys_created_by><sys_created_on>2023-12-15 10:10:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41650e72978ff110a3a2db24a253af99</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dealer Issue Detection screen</sys_name><sys_overrides/><sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package><sys_policy/><sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope><sys_update_name>sys_ux_screen_41650e72978ff110a3a2db24a253af99</sys_update_name><sys_updated_by>pavan</sys_updated_by><sys_updated_on>2023-12-15 10:10:59</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=41650e72978ff110a3a2db24a253af99"/></record_update>]]></payload>
+        <payload_hash>913405207</payload_hash>
+        <record_name>Dealer Issue Detection screen</record_name>
+        <reverted_from/>
+        <source>a6d1d17e978bf110a3a2db24a253afe8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pavan</sys_created_by>
+        <sys_created_on>2023-12-15 10:10:59</sys_created_on>
+        <sys_id>c5650e72978ff110a3a2db24a253af9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c6cf5389c0000001</sys_recorded_at>
+        <sys_updated_by>pavan</sys_updated_by>
+        <sys_updated_on>2023-12-15 10:10:59</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>01650e720b8ff11014dd9638ee41e29b</update_guid>
+        <update_guid_history>01650e720b8ff11014dd9638ee41e29b:913405207</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pavan</sys_created_by>
+        <sys_created_on>2023-12-15 10:13:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>1b6e1de6f81b46a99426a2c34778d969</sys_id>
+        <sys_metadata>41650e72978ff110a3a2db24a253af99</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dealer Issue Detection screen</sys_name>
+        <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+        <sys_scope_delete display_value="">54f766a2861f4cefa5faab66b1be5909</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_41650e72978ff110a3a2db24a253af99</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_41650e72978ff110a3a2db24a253af99">c5650e72978ff110a3a2db24a253af9b</sys_update_version>
+        <sys_updated_by>pavan</sys_updated_by>
+        <sys_updated_on>2023-12-15 10:13:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

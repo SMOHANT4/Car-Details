@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="servicetype1" table="x_1073149_car_de_0_servicetype" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>servicetype1</element>
+            <name>x_1073149_car_de_0_servicetype</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>pavan</sys_created_by>
+            <sys_created_on>2023-12-15 09:28:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>servicetype1</sys_name>
+            <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+            <sys_update_name>sys_choice_x_1073149_car_de_0_servicetype_servicetype1</sys_update_name>
+            <sys_updated_by>pavan</sys_updated_by>
+            <sys_updated_on>2023-12-15 09:28:17</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicetype1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diagonistic Tool</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_servicetype</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>pavan</sys_created_by>
+            <sys_created_on>2023-12-15 09:29:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49cbb9f6974ff110a3a2db24a253afac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pavan</sys_updated_by>
+            <sys_updated_on>2023-12-15 09:29:09</sys_updated_on>
+            <value>Diagonistic Tool</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicetype1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Parts Stock Check</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_servicetype</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>pavan</sys_created_by>
+            <sys_created_on>2023-12-15 09:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8abb53a974ff110a3a2db24a253af89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pavan</sys_updated_by>
+            <sys_updated_on>2023-12-15 09:28:37</sys_updated_on>
+            <value>Parts Stock Check</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicetype1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Box</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_servicetype</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>pavan</sys_created_by>
+            <sys_created_on>2023-12-15 09:28:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>618bb53a974ff110a3a2db24a253af86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pavan</sys_updated_by>
+            <sys_updated_on>2023-12-15 09:28:17</sys_updated_on>
+            <value>Service Box</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicetype1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vehicle</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_servicetype</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>pavan</sys_created_by>
+            <sys_created_on>2023-12-15 09:29:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcdb3df6974ff110a3a2db24a253af66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pavan</sys_updated_by>
+            <sys_updated_on>2023-12-15 09:29:21</sys_updated_on>
+            <value>Vehicle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicetype1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warrenty</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_servicetype</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>pavan</sys_created_by>
+            <sys_created_on>2023-12-15 09:28:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dbbfdf6974ff110a3a2db24a253aff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pavan</sys_updated_by>
+            <sys_updated_on>2023-12-15 09:28:52</sys_updated_on>
+            <value>Warrenty</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="automatic_gearbox_piloted_manual_gearbox_mode" label="Automatic gearbox/piloted manual gearbox mode" language="en" table="x_1073149_car_de_0_car_service_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>automatic_gearbox_piloted_manual_gearbox_mode</element>
+            <help/>
+            <hint/>
+            <label>Automatic gearbox/piloted manual gearbox mode</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <plural>Automatic gearbox/piloted manual gearbox modes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:45:54</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Automatic gearbox/piloted manual gearbox mode</sys_name>
+            <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+            <sys_update_name>sys_documentation_x_1073149_car_de_0_car_service_details_automatic_gearbox_piloted_manual_gearbox_mode_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:45:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

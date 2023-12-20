@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="problem_switching_off_the_internal_combustion_engine" table="x_1073149_car_de_0_car_service_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>problem_switching_off_the_internal_combustion_engine</element>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:47:03</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>problem_switching_off_the_internal_combustion_engine</sys_name>
+            <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+            <sys_update_name>sys_choice_x_1073149_car_de_0_car_service_details_problem_switching_off_the_internal_combustion_engine</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:47:03</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>problem_switching_off_the_internal_combustion_engine</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cannot be switch off</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:47:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faa60b14975b7910a3a2db24a253af87</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:47:37</sys_updated_on>
+            <value>c-bso</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>problem_switching_off_the_internal_combustion_engine</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Difficult to switch off</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:47:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75960b14975b7910a3a2db24a253af61</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:47:17</sys_updated_on>
+            <value>dtso</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

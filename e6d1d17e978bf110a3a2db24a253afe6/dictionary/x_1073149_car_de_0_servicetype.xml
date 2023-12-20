@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1a3bfdf6974ff110a3a2db24a253afeb" label="ServiceType" max_length="40" name="x_1073149_car_de_0_servicetype" type="collection">
+        <element choice="1" label="serviceType1" max_length="40" name="servicetype1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Diagonistic Tool" value="Diagonistic Tool"/>
+                <element inactive_on_update="false" label="Parts Stock Check" value="Parts Stock Check"/>
+                <element inactive_on_update="false" label="Service Box" value="Service Box"/>
+                <element inactive_on_update="false" label="Vehicle" value="Vehicle"/>
+                <element inactive_on_update="false" label="Warrenty" value="Warrenty"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="servicetype1" dependent_on_field="servicetype1" label="serviceType2" max_length="40" name="servicetype2" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="Parts Stock Check" inactive_on_update="false" label="abc" sequence="0" value="abc"/>
+                <element dependent_value="Warrenty" inactive_on_update="false" label="asd" sequence="0" value="asd"/>
+                <element dependent_value="Vehicle" inactive="true" inactive_on_update="true" label="Driving Assistance/ Driver Information System" sequence="0" value="Driving Assistance/ Driver Information System"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Immobiliser/ Stop and Start/ Starter" sequence="0" value="Immobiliser/ Stop and Start/ Starter"/>
+                <element dependent_value="Service Box" inactive_on_update="false" label="xyz" sequence="0" value="xyz"/>
+                <element dependent_value="Diagonistic Tool" inactive_on_update="false" label="xyz" sequence="0" value="xyz"/>
+                <element dependent_value="Service Box" inactive_on_update="false" label="abc" sequence="1" value="abc"/>
+                <element dependent_value="Diagonistic Tool" inactive_on_update="false" label="abc" sequence="1" value="abc"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Audio/Telematics/Telephone" sequence="1" value="Audio/Telematics/Telephone"/>
+                <element dependent_value="Warrenty" inactive_on_update="false" label="xyz" sequence="1" value="xyz"/>
+                <element dependent_value="Parts Stock Check" inactive_on_update="false" label="xyz" sequence="1" value="xyz"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Diesel Engine/ Add Blue/ Diesel hybrids" sequence="2" value="Diesel Engine/ Add Blue/ Diesel hybrids"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Bodywork incl. electr. functions i.e, AB..." sequence="3" value="Bodywork incl. electr. functions i.e, AB..."/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Gearbox/Clutch" sequence="4" value="Gearbox/Clutch"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Driving Assistance" sequence="5" value="Driving Assistance"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Hydrogen Vehicle" sequence="6" value="Hydrogen Vehicle"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Petrol engine" sequence="7" value="Petrol engine"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Suspension/ Brakes/ Steering" sequence="8" value="Suspension/ Brakes/ Steering"/>
+                <element dependent_value="Vehicle" inactive_on_update="false" label="Electric vehicles traction chain" sequence="9" value="Electric vehicles traction chain"/>
+            </choice>
+        </element>
+    </element>
+</database>

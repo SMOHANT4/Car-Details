@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="starting_problems" table="x_1073149_car_de_0_car_service_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>starting_problems</element>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:48:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>starting_problems</sys_name>
+            <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+            <sys_update_name>sys_choice_x_1073149_car_de_0_car_service_details_starting_problems</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:48:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>starting_problems</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Starting impossible and the starter motor does not operate</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:48:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99e68b54975b7910a3a2db24a253af39</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:48:52</sys_updated_on>
+            <value>siasmdnt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>starting_problems</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Starting difficult , but starts after a long attempt</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:53:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3f78f54975b7910a3a2db24a253afa7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:53:29</sys_updated_on>
+            <value>Starting difficult , but starts after a long attemp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>starting_problems</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Starting difficult, but starts after several attempts</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aeb78b94975b7910a3a2db24a253af20</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:52:56</sys_updated_on>
+            <value>Starting difficult, but starts after several attempt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>starting_problems</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Starting impossible,but the starter motor operates</label>
+            <language>en</language>
+            <name>x_1073149_car_de_0_car_service_details</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-20 06:51:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90078f54975b7910a3a2db24a253af47</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-20 06:51:45</sys_updated_on>
+            <value>Starting impossible,but the starter motor operate</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

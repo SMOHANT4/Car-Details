@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>ServiceType</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1073149_car_de_0_servicetype</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>pavan</sys_created_by>
+        <sys_created_on>2023-12-15 09:26:51</sys_created_on>
+        <sys_id>1a3bfdf6974ff110a3a2db24a253afeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceType</sys_name>
+        <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+        <sys_update_name>sys_db_object_1a3bfdf6974ff110a3a2db24a253afeb</sys_update_name>
+        <sys_updated_by>pavan</sys_updated_by>
+        <sys_updated_on>2023-12-15 09:26:51</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_1073149_car_de_0.servicetype_user" name="x_1073149_car_de_0.servicetype_user">e64b39f6974ff110a3a2db24a253af4b</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

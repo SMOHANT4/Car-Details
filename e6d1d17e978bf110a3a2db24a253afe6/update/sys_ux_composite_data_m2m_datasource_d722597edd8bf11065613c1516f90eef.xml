@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">1b22597e088bf110e53784df7f3d02f0</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">9f22597e698bf110084a0bd506ab1def</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-15 06:27:16</sys_created_on>
+        <sys_id>d722597edd8bf11065613c1516f90eef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Car Details" source="x_1073149_car_de_0">e6d1d17e978bf110a3a2db24a253afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Details">e6d1d17e978bf110a3a2db24a253afe6</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_d722597edd8bf11065613c1516f90eef</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-15 06:27:16</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>
